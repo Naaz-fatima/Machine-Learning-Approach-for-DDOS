@@ -1,2 +1,6 @@
 # Machine-Learning-Approach-for-DDOS
-Asemi supervised machine learning approach for DDOS detection.
+Approach: Semi supervised machine learning 
+Database:sqlyog
+Dataset: KDD
+
+
